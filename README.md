@@ -3,7 +3,7 @@
  
  🔭 I am currently working at [Interlude Santé](https://interludesante.com/accueil) as a Front End Developer.
  
- 💬 Ask me about WordPress and its ecosystem, about the wonderful world of Jamstack or about web interactions. Also, I'm getting excited about DevOps culture. I'm a passionate and I like to learn new things all the time !
+ 💬 Ask me about WordPress and its ecosystem, about the wonderful world of Jamstack or about web interactions. Also, I'm getting excited about DevOps culture. I'm passionate person and I like to learn new things all the time !
  
  🌱 I'm currently learning [Nuxt 3](https://nuxt.com/) with Michael Thiessen on [Mastering Nuxt](https://masteringnuxt.com/).
  
